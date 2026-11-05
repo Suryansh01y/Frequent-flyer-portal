@@ -16,6 +16,11 @@ A responsive frontend demo for an airline frequent flyer member directory. It is
 - Keyboard focus indicators, semantic labels, ARIA status/dialog attributes, and reduced-motion support.
 - Simulated analytics console message on primary actions.
 
+## Links 
+
+Live: https://frequent-flyer-portal-pearl.vercel.app/
+
+Video: 
 
 ## Run locally
 
