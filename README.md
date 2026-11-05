@@ -20,7 +20,11 @@ A responsive frontend demo for an airline frequent flyer member directory. It is
 
 Live: https://frequent-flyer-portal-pearl.vercel.app/
 
-Video: 
+## Screenshots
+
+![Home page](image.png)
+![Members page](image-1.png)
+
 
 ## Run locally
 
